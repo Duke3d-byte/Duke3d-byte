@@ -1,7 +1,23 @@
 ## Hi there 👋
  👯 I’m a developer experienced in building websites for small and medium-sized businesses. Whether you’re trying to win work, list your services, or create a new online store, I can help.
 Knows HTML and CSS3, PHP, jQuery, WordPress, JavaScript, MySQL, Visual FoxPro, and SEO
- ### Below is some of my list of some of my collaborations
+ ### Below are some of my works and collaborations
+ 
+https://hallandandpartners.com/
+
+https://grandiamondhotels.com/
+
+https://sagasuites.com.ng/
+
+https://embassyclassic.com/
+
+https://templeterracepharmacy.com/
+
+https://everydaygrocery.com.ng/
+
+https://ghpharmacyonline.com/
+
+https://iyallasoft.com.ng/
 <!--
 **Duke3d-byte/Duke3d-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
