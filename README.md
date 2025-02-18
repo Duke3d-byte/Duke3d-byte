@@ -1,6 +1,6 @@
 ## Hi there 👋
  👯 I’m a developer experienced in building websites for small and medium-sized businesses. Whether you’re trying to win work, list your services, or create a new online store, I can help.
-Knows HTML and CSS3, PHP, jQuery, WordPress, JavaScript, MySQL, Visual FoxPro, and SEO
+My skills include but not limited to HTML and CSS3, PHP, jQuery, WordPress, JavaScript, MySQL, Visual FoxPro, and SEO
  ### Below are some of my works and collaborations
  
 https://hallandandpartners.com/
