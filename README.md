@@ -17,7 +17,9 @@ https://everydaygrocery.com.ng/
 
 https://ghpharmacyonline.com/
 
-https://iyallasoft.com.ng/
+https://estate.iyallasoft.com.ng/
+
+https://bizmaap.iyallasoft.com.ng/
 <!--
 **Duke3d-byte/Duke3d-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
