@@ -8,7 +8,6 @@ My skills include but not limited to HTML and CSS3, PHP, jQuery, WordPress, Java
 * WordPress Development: Website creation, maintenance, and plugin customization.
 * ERP Implementation: Expertise in Oracle E-Business Suite and ERP system integration.
 * IT Consulting & Training: Comprehensive training and IT solutions for businesses.
-* API Development & Integration: Seamless integration of third-party APIs.
  ### Below are some of my works and collaborations
  
 https://hallandandpartners.com/
