@@ -1,6 +1,14 @@
 ## Hi there 👋
  👯 I’m a developer experienced in building websites for small and medium-sized businesses. Whether you’re trying to win work, list your services, or create a new online store, I can help.
 My skills include but not limited to HTML and CSS3, PHP, jQuery, WordPress, JavaScript, MySQL, Visual FoxPro, and SEO
+
+###SERVICES OFFERED
+* Custom Software Development: Tailored applications using PHP, MySQL, JavaScript, and AJAX.
+* Database Design & Administration: Proficient in SQL, Oracle, and database optimization.
+* WordPress Development: Website creation, maintenance, and plugin customization.
+* ERP Implementation: Expertise in Oracle E-Business Suite and ERP system integration.
+* IT Consulting & Training: Comprehensive training and IT solutions for businesses.
+* API Development & Integration: Seamless integration of third-party APIs.
  ### Below are some of my works and collaborations
  
 https://hallandandpartners.com/
